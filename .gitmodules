@@ -1,4 +1,4 @@
 [submodule "tools/clang"]
 	path = tools/clang
 	url = https://github.com/sathishkottravel/clang.git
-	branch = skepu2
+	branch = 44f9f59
