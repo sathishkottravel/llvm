@@ -1,0 +1,4 @@
+[submodule "tools/clang"]
+	path = tools/clang
+	url = https://github.com/sathishkottravel/clang.git
+	branch = 37b415dd
